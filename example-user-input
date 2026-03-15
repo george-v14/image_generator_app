@@ -1,0 +1,2 @@
+Create a website header that shows an application workflow.
+A user enters a free text prompt, that prompt is then optimized into an image generation prompt that outputs a high quality AI generated image. The user has the ability to provide feedback based on the returned image to improve generation quality
